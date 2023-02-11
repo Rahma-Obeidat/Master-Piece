@@ -1,0 +1,59 @@
+C:\master piece\master piece\bin\master piece.dll.config
+C:\master piece\master piece\bin\master piece.dll
+C:\master piece\master piece\bin\master piece.pdb
+C:\master piece\master piece\bin\roslyn\csc.exe
+C:\master piece\master piece\bin\roslyn\csc.exe.config
+C:\master piece\master piece\bin\roslyn\csc.rsp
+C:\master piece\master piece\bin\roslyn\csi.exe
+C:\master piece\master piece\bin\roslyn\csi.exe.config
+C:\master piece\master piece\bin\roslyn\csi.rsp
+C:\master piece\master piece\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\master piece\master piece\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\master piece\master piece\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\master piece\master piece\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\master piece\master piece\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\master piece\master piece\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\master piece\master piece\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\master piece\master piece\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\master piece\master piece\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\master piece\master piece\bin\roslyn\Microsoft.Managed.Core.targets
+C:\master piece\master piece\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\master piece\master piece\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\master piece\master piece\bin\roslyn\System.AppContext.dll
+C:\master piece\master piece\bin\roslyn\System.Collections.Immutable.dll
+C:\master piece\master piece\bin\roslyn\System.Console.dll
+C:\master piece\master piece\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\master piece\master piece\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\master piece\master piece\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\master piece\master piece\bin\roslyn\System.Globalization.Calendars.dll
+C:\master piece\master piece\bin\roslyn\System.IO.Compression.dll
+C:\master piece\master piece\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\master piece\master piece\bin\roslyn\System.IO.FileSystem.dll
+C:\master piece\master piece\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\master piece\master piece\bin\roslyn\System.Net.Http.dll
+C:\master piece\master piece\bin\roslyn\System.Net.Sockets.dll
+C:\master piece\master piece\bin\roslyn\System.Reflection.Metadata.dll
+C:\master piece\master piece\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\master piece\master piece\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\master piece\master piece\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\master piece\master piece\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\master piece\master piece\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\master piece\master piece\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\master piece\master piece\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\master piece\master piece\bin\roslyn\System.ValueTuple.dll
+C:\master piece\master piece\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\master piece\master piece\bin\roslyn\System.Xml.XmlDocument.dll
+C:\master piece\master piece\bin\roslyn\System.Xml.XPath.dll
+C:\master piece\master piece\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\master piece\master piece\bin\roslyn\vbc.exe
+C:\master piece\master piece\bin\roslyn\vbc.exe.config
+C:\master piece\master piece\bin\roslyn\vbc.rsp
+C:\master piece\master piece\bin\roslyn\VBCSCompiler.exe
+C:\master piece\master piece\bin\roslyn\VBCSCompiler.exe.config
+C:\master piece\master piece\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\master piece\master piece\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\master piece\master piece\obj\Debug\master piece.csproj.AssemblyReference.cache
+C:\master piece\master piece\obj\Debug\master piece.csproj.CoreCompileInputs.cache
+C:\master piece\master piece\obj\Debug\master piece.csproj.CopyComplete
+C:\master piece\master piece\obj\Debug\master piece.dll
+C:\master piece\master piece\obj\Debug\master piece.pdb
